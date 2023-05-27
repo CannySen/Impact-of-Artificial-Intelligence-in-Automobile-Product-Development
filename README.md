@@ -1,4 +1,4 @@
-The objective of this paper was to development of an ML algorithm which will reduce factors like incremental delay, vehicle operation cost, fuel operating, and cost emission by suggesting the shortest possible route for drivers.![image](https://github.com/CannySen/Impact-of-Artificial-Intelligence-in-Automobile-Product-Development/assets/112691277/9c819013-89e1-4bef-89aa-27ab78ec5de6)
+The objective of this paper was to development of an ML algorithm which will reduce factors like incremental delay, vehicle operation cost, fuel operating, and cost emission by suggesting the shortest possible route for drivers.
 
 Philadelphia has more traffic compared to other three cities. It also analyses rush hours in all three cities from 8 in the morning to 5 in the evening but for Philadelphia from 8 in the morning to 12 midnight.
 
